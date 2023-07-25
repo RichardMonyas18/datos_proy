@@ -1,0 +1,35 @@
+News(
+        title: 'Delicia de Pollo Asado',
+        description: 'Una jugosa pechuga de pollo asada con hierbas aromáticas y acompañada de una guarnición de vegetales al horno.',
+        imageUrl: 'https://static1.bigstockphoto.com/7/8/1/large2/18771323.jpg',
+      ),
+       News(
+        title: 'Ensalada Mediterránea',
+        description: 'Una refrescante ensalada mediterránea con tomates cherry, pepino, aceitunas, queso feta y aderezo de limón y aceite de oliva.',
+        imageUrl: 'https://editorialtelevisa.brightspotcdn.com/dims4/default/e8cd226/2147483647/strip/true/crop/560x560+220+0/resize/1000x1000!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.amazonaws.com%2Fbrightspot%2Fwp-content%2Fuploads%2F2018%2F12%2Fensalada-mediterranea.jpg',
+      ),
+       News(
+        title: 'Pasta Carbonara Cremosa',
+        description: 'Una clásica pasta carbonara italiana con bacon crujiente, huevo batido y una irresistible salsa de queso parmesano.',
+        imageUrl: 'https://static.guiainfantil.com/pictures/recetas/4075-4-espaguetis-a-la-carbonara-suaves-y-cremosos.jpg',
+      ),
+       News(
+        title: 'Sushi Variado',
+        description: 'Un surtido de sushi fresco que incluye nigiri de salmón, makis de aguacate, california rolls y tempura rolls',
+        imageUrl: 'https://i.blogs.es/8cb70e/sushi/1366_2000.jpg',
+      ),
+       News(
+        title: 'Tacos de Pescado al Chipotle',
+        description: 'Tacos rellenos de filetes de pescado dorados, aderezados con una salsa de chipotle cremosa y ensalada de col.',
+        imageUrl: 'https://www.mylatinatable.com/wp-content/uploads/2016/03/foto-3-cortada-1024x617.jpg',
+      ),
+       News(
+        title: 'Risotto de Champiñones',
+        description: 'Un delicioso risotto de arroz Arborio cocido a la perfección con champiñones frescos y queso parmesano rallado.',
+        imageUrl: 'https://i.blogs.es/b64bf1/risotto-de-setas/1366_2000.jpg',
+      ),
+       News(
+        title: 'Tarta de Manzana Casera',
+        description: 'Una exquisita tarta de manzana con una crujiente masa casera y relleno de manzanas caramelizadas y canela.',
+        imageUrl: 'https://amimaneracocinando.com/wp-content/uploads/2012/04/tarta-de-manzana.jpg',
+        )
